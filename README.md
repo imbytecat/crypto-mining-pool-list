@@ -1,0 +1,1 @@
+crypto_mining_pool_list
